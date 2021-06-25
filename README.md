@@ -1,2 +1,2 @@
-# MachineLeariningProject
-Machine Learning Project CDV - shared repository
+# MachineLearningProject
+Machine Learning Project - shared repository
